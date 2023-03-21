@@ -16,6 +16,8 @@ awscli = "^1.27.95"
 zappa = "^0.56.1"
 pandas = "^1.5.3"
 django-localflavor = "^3.1"
+gunicorn = "^20.1.0"
+whitenoise = "^6.4.0"
 
 
 [build-system]
